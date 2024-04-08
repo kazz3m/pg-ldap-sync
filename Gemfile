@@ -4,5 +4,5 @@ source "https://rubygems.org"
 gemspec
 
 group :development do
-  gem "debug"
+  gem "debug", '<= 0.2.1'
 end
